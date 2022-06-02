@@ -1,5 +1,5 @@
 {
-  "name":"dans"
+  "name":"dans",
   "baseUrl": "http://localhost:3000",
   "projectId": "hyf",
   "video": false
